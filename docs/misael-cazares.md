@@ -1,6 +1,7 @@
 ###Misael Cázares
 
--Misael Cázares 
--Santiago de Querétaro, México
--Pizza
--Watch movies and TV shows
+**Name:** Misael Cázares 
+""From:"" Santiago de Querétaro, México
+""Favoite Food:"" Pizza
+**Hobbie:** Watch movies and TV shows
+**Color:** Black

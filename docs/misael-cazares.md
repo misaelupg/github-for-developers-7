@@ -9,3 +9,5 @@
 **Hobbie:** Watch movies and TV shows
 
 **Color:** Black
+
+**Favorite Rock Band:** Muse
